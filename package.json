@@ -1,0 +1,19 @@
+{
+  "name": "reactlearning",
+  "version": "1.0.0",
+  "description": "Tracking of my react learning curve.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsrivastava16/ReactLearning.git"
+  },
+  "author": "Yash Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashsrivastava16/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/yashsrivastava16/ReactLearning#readme"
+}
